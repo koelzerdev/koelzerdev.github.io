@@ -1,8 +1,8 @@
 - links:
-#   - name: Pricing
-#     link: /pricing/
-#   - name: services
-#     link: /services/
+  - name: Pricing
+    link: /pricing/
+  - name: services
+    link: /services/
   - name: About
     link: /about/
   - name: Contact

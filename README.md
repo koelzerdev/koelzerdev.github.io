@@ -16,7 +16,7 @@ Find more templates, themes and step-by-step Jekyll tutorials at [CloudCannon Ac
 * Contact form
 * Pre-built pages
 * Pre-styled components
-* Blog with pagination
+* services with pagination
 * Post category pages
 * Disqus comments for posts
 * Staff and author system

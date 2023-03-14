@@ -2,7 +2,7 @@
 title: The process for direct sales
 ---
 
-![Checkmate](https://source.unsplash.com/random/1500x1145)
+![Netinfra](images/Networkinfra.png)
 
-# Title
-
+# Network Infrastructure
+Integrated Electronic Solutions is able to build, maintain and grow network infrastructure. This consists of the hardware and software resources of an entire network that enable network connectivity, communication, operations and management of an enterprise network. It provides the communication path and services between users, processes, applications, services and external networks/the internet.

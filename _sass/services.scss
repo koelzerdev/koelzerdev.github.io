@@ -1,4 +1,4 @@
-.blog-posts {
+.services-posts {
 	list-style: none;
 	padding: 0;
 
@@ -7,7 +7,7 @@
 	}
 }
 
-.blog-post {
+.services-post {
 	.author {
 		padding: 30px 0 0 0;
 		border: 1px solid #eee;
@@ -38,7 +38,7 @@
 		text-align: left;
 	}
 
-	.blog-navigation {
+	.services-navigation {
 		font-size: 14px;
 		display: block;
 		width: auto;
@@ -59,7 +59,7 @@
 		border-bottom: 1px solid #eee;
 		font-size: .9em;
 
-		.blog-filter {
+		.services-filter {
 			display: inline-block;
 			text-align: left;
 
@@ -95,7 +95,7 @@
 	text-align: center;
 }
 
-.blog-filter {
+.services-filter {
 	text-align: center;
 	a {
 		background: #eee;
@@ -112,7 +112,7 @@
 	}
 }
 
-.blog-filter.cross a {
+.services-filter.cross a {
 	padding-right: 8px;
 
 	&:after {

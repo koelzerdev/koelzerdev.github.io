@@ -8,7 +8,7 @@ baseurl:
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
 description: Tomorrows Technology in Your Hands Today.
-author:koelzerdev
+author: koelzerdev
   name:
   email: koelslaw@gmail.com
   twitter: # twitter username without the @ symbol

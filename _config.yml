@@ -27,7 +27,7 @@ collections:
     _hide_content: true
 
 paginate: 10
-paginate_path: "/services/:num/"
+paginate_path: "/blog/:num/"
 permalink: pretty
 
 defaults:

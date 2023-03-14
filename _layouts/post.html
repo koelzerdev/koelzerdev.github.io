@@ -1,7 +1,7 @@
 ---
 layout: page
 ---
-<div class="services-post text-container">
+<div class="blog-post text-container">
 	{% include post-title.html post=page %}
 
 	<p class="editor-link"><a href="cloudcannon:collections/{{ page.path }}" class="btn"><strong>&#9998;</strong> Edit Post</a></p>
@@ -15,7 +15,7 @@ layout: page
 			<p class="blurb">{{ author.blurb }}</p>
 		</div>
 
-		<div class="services-navigation">
+		<div class="blog-navigation">
 			{% if page.previous.url %}
 				<a class="prev" href="{% include relative-src.html src=page.previous.url %}">&laquo; {{ page.previous.title }}</a>
 			{% endif %}

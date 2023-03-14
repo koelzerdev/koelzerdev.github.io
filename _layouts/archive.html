@@ -3,21 +3,21 @@ layout: page
 ---
 
 <div class="text-container">
-	{% assign services = site.pages | where: "path", "services/index.html" | first %}
+	{% assign blog = site.pages | where: "path", "blog/index.html" | first %}
 
-	{% if services.title %}
-		<h2>{{ services.title }}</h2>
+	{% if blog.title %}
+		<h2>{{ blog.title }}</h2>
 	{% endif %}
 
-	{% if services.description %}
-		<p class="subtext">{{ services.description }}</p>
+	{% if blog.description %}
+		<p class="subtext">{{ blog.description }}</p>
 	{% endif %}
 
 	<div class="center-text">
-		<span class="services-filter cross"><a href="{{ site.baseurl }}/services/">{{ page.title | capitalize }}</a></span>
+		<span class="blog-filter cross"><a href="{{ site.baseurl }}/blog/">{{ page.title | capitalize }}</a></span>
 	</div>
 
-	<ul class="services-posts">
+	<ul class="blog-posts">
 		{% include list-posts.html posts=page.posts %}
 	</ul>
 </div>

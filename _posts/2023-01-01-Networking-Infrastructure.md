@@ -2,7 +2,7 @@
 title: Network Intrastructure
 ---
 
-<img src="{{ site.baseurl }}/images/Networkinfra.png">
+<img src="{{ site.baseurl }}/images/Networkinfra.png" height="50" width="50">
 
 Integrated Electronic Solutions is able to build, maintain and grow network infrastructure. 
 
